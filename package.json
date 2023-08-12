@@ -1,7 +1,7 @@
 {
   "name": "calculator",
   "version": "0.1.0",
-  "homepage": "https://PatilDivyani.github.io/SimpleReactCalculator",
+  "homepage": "https://PatilDivyani.github.io/ReactCalculator",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
